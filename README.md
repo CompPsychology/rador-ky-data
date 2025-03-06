@@ -1,16 +1,16 @@
 # RADOR-KY data sharing
 
-## Twitter (2019, 2020)
+## Twitter: 2019, 2020
 Files
 * [kentucky_df_2019.csv]()
 * [kentucky_df_2020.csv]()
-* [kentucky_df_2020_diff.csv]()
+* [kentucky_df_2020_diff.csv]() *(Contains 2020 measurements controlling for 2019 measurements)*
 
 Measures included:
 - `ANX_SCORE`: Anxiety predictions
 - `DEP_SCORE`: Depression predictions
 
-## Twitter (2021, 2022)
+## Twitter: 2021, 2022
 Files
 * [kentucky_df_2021.csv]()
 * [kentucky_df_2022.csv]()
@@ -18,7 +18,7 @@ Files
 Measures included:
 - `ANX_SCORE`: Anxiety predictions 
 - `DEP_SCORE`: Depression predictions
-- `OPIOID_CR_CLIP`: Crude rate opioid mortality clipped to 0  (model comes from [paper]())
+- `OPIOID_CR_CLIP`: Crude rate opioid mortality clipped to 0 
 - `OPIOID_CR_RAW`: Crude rate opioid mortality raw
 - `OPIOID_AAR`: Age-adjusted opioid mortality
 
