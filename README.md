@@ -1,6 +1,6 @@
 # RADOR-KY data sharing
 
-## Easy Twitter
+## 2019-2020 Twitter
 Files
 * [kentucky_df_2019.csv]()
 * [kentucky_df_2020.csv]()
@@ -10,7 +10,7 @@ Measures:
 - `ANX_SCORE`: Anxiety
 - `DEP_SCORE`: Depression
 
-## Hard Twitter
+## 2021-2022 Twitter
 Files
 * [kentucky_df_2021.csv]()
 * [kentucky_df_2022.csv]()
