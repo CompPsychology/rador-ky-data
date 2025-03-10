@@ -1,9 +1,9 @@
 # RADOR-KY data sharing
 
 ## Twitter 2019 and 2020
-* [`kentucky_df_2019.csv`](): mental health scores measured from 2019 Twitter data
-* [`kentucky_df_2020.csv`](): mental health scores measured from 2020 Twitter data 
-* [`kentucky_df_2020_diff.csv`](): mental health scores measured from 2020 Twitter data *controlling for 2019 scores*
+* [`kentucky_df_2019.csv`](https://github.com/CompPsychology/rador-ky-data/blob/main/kentucky_df_2019.csv): mental health scores measured from 2019 Twitter data
+* [`kentucky_df_2020.csv`](https://github.com/CompPsychology/rador-ky-data/blob/main/kentucky_df_2020.csv): mental health scores measured from 2020 Twitter data 
+* [`kentucky_df_2020_diff.csv`](https://github.com/CompPsychology/rador-ky-data/blob/main/kentucky_df_2020_diff.csv): mental health scores measured from 2020 Twitter data *controlling for 2019 scores*
 
 **Measures**:
   *  `anx_score`: Anxiety predictions
@@ -12,8 +12,8 @@
 
 
 ## Twitter: 2021 and 2022
-* [`kentucky_df_2021.csv`](): mental health & opioid prediction scores measured from 2021 Twitter data
-* [`kentucky_df_2022.csv`](): mental health & opioid prediction scores measured from 2022 Twitter data
+* [`kentucky_df_2021.csv`](https://github.com/CompPsychology/rador-ky-data/blob/main/kentucky_df_2021.csv): mental health & opioid prediction scores measured from 2021 Twitter data
+* [`kentucky_df_2022.csv`](https://github.com/CompPsychology/rador-ky-data/blob/main/kentucky_df_2022.csv): mental health & opioid prediction scores measured from 2022 Twitter data
   
 **Measures**:
 - `anx_score`: Anxiety predictions 
@@ -29,7 +29,7 @@
   * `anx_score`: Anxiety predictions aggregated to the county-week level
   * `dep_score`: Depression predictions aggregated to the county-week level
  
-* <ins>Opioid Poisoning Mortality</ins>: County-mapped Twitter messages from 2021 and 2022 are used to estimate opioid poisoning mortality rates from a pretrained model predicting opioid poisoning mortality ([Giorgi, S., Yaden, D.B., Eichstaedt, J.C. et al., 2023](https://www.nature.com/articles/s41598-023-34468-2))
+* <ins>Opioid Poisoning Mortality</ins>: County-mapped Tweets from 2021 and 2022 are used to estimate opioid poisoning mortality rates from a pretrained model predicting opioid poisoning mortality ([Giorgi, S., Yaden, D.B., Eichstaedt, J.C. et al., 2023](https://www.nature.com/articles/s41598-023-34468-2))
   * `opioid_cr_clipped`: Crude rate opiate-related deaths per 100,000 people, with negative rates set (clipped) to 0
   * `opioid_cr_raw`: Crude rate opiate-related deaths per 100,000 people
   * `opioid_aar`: Age-adjusted opiate-related deaths per 100,000 people
