@@ -42,3 +42,8 @@
 ](https://www.nature.com/articles/s41746-024-01100-0)*
 * *[Predicting U.S. county opioid poisoning mortality from multi-modal social media and psychological self-report data
 ](https://www.nature.com/articles/s41598-023-34468-2)*
+
+## Open Questions
+- Linear rescaling of opioid mortality rates (adjust means of estimates to match true means)?
+- Should `denominator` for estimated opioid death rates be 1 or 100,000, as the measurement is "deaths per 100,000 individuals"?
+- Fill county-weeks that have no prediction due to thresholding with Null?
