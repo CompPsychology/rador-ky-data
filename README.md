@@ -1,5 +1,7 @@
 # RADOR-KY data sharing
 
+[Data Sharing Presentation: Methods and Data Overview](https://docs.google.com/presentation/d/1RYaRZhjkd9He2rbrLLZYkieGva-xxx8D4fwn722n_jc/edit?usp=sharing)
+
 ## Twitter 2019 and 2020
 * [`kentucky_df_2019.csv`](https://github.com/CompPsychology/rador-ky-data/blob/main/kentucky_df_2019.csv): mental health scores measured from 2019 Twitter data
 * [`kentucky_df_2020.csv`](https://github.com/CompPsychology/rador-ky-data/blob/main/kentucky_df_2020.csv): mental health scores measured from 2020 Twitter data 
@@ -35,15 +37,8 @@
   * `opioid_aar`: Age-adjusted opiate-related deaths per 100,000 people
 
 
-
-## Sources
-
-* *[Robust language-based mental health assessments in time and space through social media
-](https://www.nature.com/articles/s41746-024-01100-0)*
-* *[Predicting U.S. county opioid poisoning mortality from multi-modal social media and psychological self-report data
-](https://www.nature.com/articles/s41598-023-34468-2)*
-
 ## Open Questions
 - Linear rescaling of opioid mortality rates (adjust means of estimates to match true means)?
 - Should `denominator` for estimated opioid death rates be 1 or 100,000, as the measurement is "deaths per 100,000 individuals"?
 - Fill county-weeks that have no prediction due to thresholding with Null?
+
