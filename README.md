@@ -1,6 +1,6 @@
 # RADOR-KY data sharing
 
-[Data Sharing Presentation: Methods and Data Overview](https://docs.google.com/presentation/d/1RYaRZhjkd9He2rbrLLZYkieGva-xxx8D4fwn722n_jc/edit?usp=sharing)
+### [Data Sharing Presentation: Methods and Data Overview](https://docs.google.com/presentation/d/1RYaRZhjkd9He2rbrLLZYkieGva-xxx8D4fwn722n_jc/edit?usp=sharing)
 
 ## Twitter 2019 and 2020
 * [`kentucky_df_2019.csv`](https://github.com/CompPsychology/rador-ky-data/blob/main/kentucky_df_2019.csv): mental health scores measured from 2019 Twitter data
