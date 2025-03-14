@@ -38,7 +38,7 @@
 
 
 ## Open Questions
-- Linear rescaling of opioid mortality rates (adjust means of estimates to match true means)?
+- Linear rescaling of opioid mortality rates (adjust means of estimates to match true means)? Predicted value distribution to match original value distribution.
 - Should `denominator` for estimated opioid death rates be 1 or 100,000, as the measurement is "deaths per 100,000 individuals"?
 - Fill county-weeks that have no prediction due to thresholding with Null?
 
